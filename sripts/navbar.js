@@ -3,7 +3,7 @@ export function renderNavbar(){
   <div class="keyboard-project-navbar">
       
       <div class="monogram-logo">
-        <img src="/images/pobrany plik.png" alt="" class="nav-logo-img">
+        <img src="../images/pobrany plik.png" alt="" class="nav-logo-img">
         <h5>Monogram</h5>
       </div>
 
@@ -44,13 +44,13 @@ export function renderNavbar(){
 
         <div class="shopping-button-container js-shopping-container">
           
-          <img src="/images/icons8-bag-64.png" alt="" class="shopping-icon-img">
+          <img src="../images/icons8-bag-64.png" alt="" class="shopping-icon-img">
           
           <div class="shopping-nav-button">
             <div class="button-nav-title">
               EUR 
             </div>
-            <img src="/images/icons8-arrow-down-24.png" alt="" class="nav-arrow-down-img">
+            <img src="../images/icons8-arrow-down-24.png" alt="" class="nav-arrow-down-img">
           </div>
 
           <div class="anchor-nav-button-list js-anchor-nav-button">
@@ -99,12 +99,12 @@ export function renderNavbar(){
         
         <div class="nav-hamburger-manu-top">
           <div class="monogram-logo">
-            <img src="/images/pobrany plik.png" alt="" class="nav-logo-img">
+            <img src="../images/pobrany plik.png" alt="" class="nav-logo-img">
             <h5>Monogram</h5>
           </div>
 
           <button class="hamburger-menu-left js-hamburger-menu-exit">
-            <img class="burger-nav-btn-exit" src="/images/icons8-cross-48.png" alt="">
+            <img class="burger-nav-btn-exit" src="../images/icons8-cross-48.png" alt="">
           </button>
         </div>
 
