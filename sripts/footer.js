@@ -49,16 +49,16 @@ export function renderFooter(){
 
         <div class="footer-contact-section">
           <div class="footer-icon-container">
-            <img src="/images/footer-icons/icons8-instagram-50.png" alt="" class="footer-icon-img">
+            <img src="images/footer-icons/icons8-instagram-50.png" alt="" class="footer-icon-img">
           </div>
           <div class="footer-icon-container">
-            <img src="/images/footer-icons/icons8-twitter-50.png" alt="" class="footer-icon-img">
+            <img src="images/footer-icons/icons8-twitter-50.png" alt="" class="footer-icon-img">
           </div>
           <div class="footer-icon-container">
-            <img src="/images/footer-icons/icons8-facebook-48.png" alt="" class="footer-icon-img">
+            <img src="images/footer-icons/icons8-facebook-48.png" alt="" class="footer-icon-img">
           </div>
           <div class="footer-icon-container">
-            <img src="/images/footer-icons/icons8-youtube-50.png" alt="" class="footer-icon-img">
+            <img src="images/footer-icons/icons8-youtube-50.png" alt="" class="footer-icon-img">
           </div>
         </div>
 
