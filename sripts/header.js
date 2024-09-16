@@ -5,7 +5,7 @@ export function renderHeader(){
       <p class="lead">Discover the perfect console for yours.</p>
       
       <a href="#console-types" class="go-to-the-content">
-        <img src="/images/icons8-arrow-down-50.png" alt="" class="header-arrow-up">
+        <img src="images/icons8-arrow-down-50.png" alt="" class="header-arrow-up">
       </a>
     </div>
   `
