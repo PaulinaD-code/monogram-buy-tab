@@ -4,7 +4,6 @@ export const consoleParts = [
     name: 'Monogram Keyboard',
     priceCents: 37595,
     mainImage:"consoleParts/Monogram_Keyboardv2.webp",
-    mainImage:"",
     hoverImage:"consoleParts/mono-1-hover.webp",
     isHover: true,
     preOrderAvailable: true,
