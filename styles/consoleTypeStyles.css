@@ -189,7 +189,9 @@
   }
 
   .console-type-container{
-    width: 520px;
+    max-width: 520px;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .console-type-image{
@@ -206,19 +208,25 @@
   }
 
   .image-keyborad-subcontainer-hidden{
-    width:  520px;
+    /*width:  520px;*/
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .image-container{
-    width:  520px;
+    /*width:  520px;*/
   }
 
   .console-type-container{
-    width:  520px;
+    /*width:  520px;*/
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .name-n-price{
-    width:  520px;
+    /*width:  520px;*/
+    width: 100%;
+    box-sizing: border-box;
   }
 }
 
