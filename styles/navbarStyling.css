@@ -3,6 +3,7 @@
 .nav-keyboard-site{
   width: 100%;
   background-color: #1A2456; 
+  box-sizing: border-box;
 }
 
 .keyboard-project-navbar{
