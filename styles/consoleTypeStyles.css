@@ -193,7 +193,9 @@
   }
 
   .console-type-image{
-    width:520px;
+    /*width:520px;*/
+    width: 100%;
+    bpx-sizing: border-box;
     height: 347px;
   }
 
