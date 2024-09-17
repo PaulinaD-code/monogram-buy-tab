@@ -212,6 +212,7 @@ html{
     grid-template-columns: 1fr;
     /*grid-gap: 0;*/
     padding: 0 2em;
+   width: 100%;
   }
 
   .console-type-image-part,
@@ -229,11 +230,13 @@ html{
   }
 
   .console-type-container-part{
-    width: 520px;
+    /*width: 520px;*/
     padding: 3px 6px;
     cursor: pointer;
     height: 397px;
     box-sizing: border-box;
+   width: 100%;
+   max-width: 520px;
   }
 }
 
