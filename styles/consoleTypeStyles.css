@@ -201,7 +201,8 @@
 
   .image-keyborad-subcontainer{
     display:block;
-    width:  520px;
+    /*width:  520px;*/
+    box-sizing: border-box;
   }
 
   .image-keyborad-subcontainer-hidden{
