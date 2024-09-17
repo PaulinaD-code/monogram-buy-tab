@@ -222,7 +222,9 @@ html{
   }
 
   .console-type-image-part{
-    width: 520px;
+    /*width: 520px;*/
+   width: 100%;
+   box-sizing: border-box;
     height: 346px;
   }
 
