@@ -179,6 +179,7 @@
   .console-types-main-container-grid{
     display: grid;
     box-sizing: border-box;
+    justify-content: center;
     grid-template-areas:
     "a "
     "b "
