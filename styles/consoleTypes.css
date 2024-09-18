@@ -89,6 +89,23 @@ html{
  text-transform: uppercase;
 }
 
+@media(max-width:500px){
+  .header-enter-container h1{
+    font-size: 25px;
+    min-width: 100%;
+    max-width: 450px;
+    margin: 0 0 15px;
+    padding: 0 1em;
+   }
+   
+  .header-enter-container p{
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0 0 18px;
+    padding: 0 1em;
+   }
+}
+
 .header-enter-container p{
  font-size: 19px;
  font-weight: 300;
