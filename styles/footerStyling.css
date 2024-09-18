@@ -157,4 +157,27 @@
       "b c d"
    }
  }
+
+ @media(max-width: 500px){
+  .footer-main-container{
+    display: grid;
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em;
+    box-sizing: border-box;
+  
+    grid-template-areas: 
+     "a d"
+     "e e"
+     "b c "
+  }
+
+  .footer-main-section{
+    min-width: 157px;
+    max-width: 360px;
+    width: 100%;
+  }
+ }
+ 
  
